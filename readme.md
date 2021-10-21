@@ -11,7 +11,7 @@
 ```
 ### Name 
 ```bash
-   • GX95    me :)  
+   • GX95  me :)  
    • Sany Mulyani
    • Rizki Padlilah
    • Gaizka
