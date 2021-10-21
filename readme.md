@@ -3,11 +3,11 @@
 ### Follow Me
 ```bash
   Youtube : 
-   - https://youtube.com/Din-zUgex95
+   > https://youtube.com/Din-zUgex95
   Instagram :
-   - https://instagram.com/ugex95
+   > https://instagram.com/ugex95
   Pastebin :
-   - https://pastebin.com/u/ugex95
+   > https://pastebin.com/u/ugex95
 ```
 ### Name 
 ```bash
